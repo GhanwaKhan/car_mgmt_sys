@@ -1,0 +1,34 @@
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+c:\users\khan\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\khan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form7.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form8.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form9.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form10.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form11.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form12.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form13.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form14.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form15.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form16.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form17.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\Car erp\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
